@@ -1,0 +1,1 @@
+document.getElementById("bud4").innerHTML = "fuuuuckkkkk youuuttt ooototototo";
